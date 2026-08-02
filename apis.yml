@@ -1,8 +1,12 @@
 aid: ubq-materials
 name: UBQ Materials
-description: UBQ Materials is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: UBQ Materials is a climate-tech company founded in 2012 that converts
+  unsorted mixed household waste, including organics and hard-to-recycle plastics,
+  into UBQ, a climate-positive thermoplastic material that substitutes for oil-based
+  plastics in manufacturing. A Certified B Corporation backed by Battery Ventures,
+  the company operates a full-scale production facility in Bergen op Zoom, Netherlands
+  (opened 2024) with 80,000 tons of annual capacity, plus an R&D center in Tze'elim,
+  Israel. UBQ Materials publishes no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/ubq-materials/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +14,65 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://www.ubqmaterials.com/wp-content/uploads/2022/11/Mask-Group-54.jpg
 tags:
 - Company
+- Sustainability
+- Circular Economy
+- Recycling
+- Materials
+- Climate Tech
+- Manufacturing
 apis: []
+common:
+- type: DomainSecurity
+  url: security/ubq-materials-domain-security.yml
+- name: LLMs.txt
+  type: LLMsTxt
+  url: llms/ubq-materials-llms.txt
+- name: Website
+  type: Website
+  url: https://www.ubqmaterials.com
+- name: Blog
+  type: Blog
+  url: https://www.ubqmaterials.com/resources/
+- name: News and Events
+  type: News
+  url: https://www.ubqmaterials.com/news-events/
+- name: Case Studies
+  type: CaseStudies
+  url: https://www.ubqmaterials.com/case-studies/
+- name: Contact
+  type: Contact
+  url: https://www.ubqmaterials.com/contact/
+- name: Careers
+  type: Careers
+  url: https://www.ubqmaterials.com/careers/
+- name: Privacy Policy
+  type: PrivacyPolicy
+  url: https://www.ubqmaterials.com/privacy-policy/
+- name: Terms and Conditions
+  type: TermsOfService
+  url: https://www.ubqmaterials.com/terms-and-conditions/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com

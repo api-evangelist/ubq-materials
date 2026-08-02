@@ -1,0 +1,24 @@
+# UBQ Materials
+
+> UBQ Materials is a climate-tech company founded in 2012 that converts unsorted mixed household waste — including organics and hard-to-recycle plastics — into UBQ, a climate-positive thermoplastic that substitutes for oil-based plastics in manufacturing. A Certified B Corporation backed by Battery Ventures, with a full-scale production facility in Bergen op Zoom, Netherlands (80,000 tons annual capacity) and an R&D center in Tze'elim, Israel. UBQ Materials publishes no public API or developer documentation.
+
+## Company
+
+- [Website](https://www.ubqmaterials.com): Corporate site for UBQ Materials and its UBQ Evolved Materials product lines (UBQ Masterbatch, UBQ ClimaPos, UBQ Industrial)
+- [About](https://www.ubqmaterials.com/company-new/): Company history, founders, facilities, and advisory board
+- [Products](https://www.ubqmaterials.com/products/): UBQ material product lines
+- [Case Studies](https://www.ubqmaterials.com/case-studies/): Manufacturing partners using UBQ material
+- [Resources](https://www.ubqmaterials.com/resources/): Blog and resource library
+- [News and Events](https://www.ubqmaterials.com/news-events/): Press and event coverage
+- [Contact](https://www.ubqmaterials.com/contact/): Sales and general inquiries
+
+## Policies
+
+- [Privacy Policy](https://www.ubqmaterials.com/privacy-policy/)
+- [Terms and Conditions](https://www.ubqmaterials.com/terms-and-conditions/)
+
+## APIs
+
+UBQ Materials does not publish a public API, developer portal, OpenAPI specification, SDKs, or a /.well-known/ discovery surface (probed 2026-07-21; all paths returned 404).
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + https://www.ubqmaterials.com -->
