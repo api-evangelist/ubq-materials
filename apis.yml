@@ -8,6 +8,9 @@ description: UBQ Materials is a climate-tech company founded in 2012 that conver
   (opened 2024) with 80,000 tons of annual capacity, plus an R&D center in Tze'elim,
   Israel. UBQ Materials publishes no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/ubq-materials/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "UBQ Materials publishes no public API or developer surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
